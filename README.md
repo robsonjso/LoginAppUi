@@ -41,10 +41,10 @@ Este aplicativo fornece uma experiência de usuário fluida para login, registro
 ## 🖼️ Capturas de Tela
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5868994d-97eb-4d8a-ac9f-ed540ef3ab14" alt="Screenshot do Aplicativo1" width="400"/>
-  <img src="https://github.com/user-attachments/assets/74f52eed-86d1-46cd-91d1-87b82acf8949" alt="Screenshot do Aplicativo2" width="400"/>
-  <img src="https://github.com/user-attachments/assets/7e25d7f7-db30-4fae-af21-fcd053e5a0a3" alt="Screenshot do Aplicativo3" width="400"/>
-  <img src="https://github.com/user-attachments/assets/48cdaeaa-35ad-4b7f-9d65-125fdede5fb9" alt="Screenshot do Aplicativo4" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5868994d-97eb-4d8a-ac9f-ed540ef3ab14" alt="Screenshot do Aplicativo1" width="260"/>
+  <img src="https://github.com/user-attachments/assets/74f52eed-86d1-46cd-91d1-87b82acf8949" alt="Screenshot do Aplicativo2" width="260"/>
+  <img src="https://github.com/user-attachments/assets/7e25d7f7-db30-4fae-af21-fcd053e5a0a3" alt="Screenshot do Aplicativo3" width="260"/>
+  <img src="https://github.com/user-attachments/assets/48cdaeaa-35ad-4b7f-9d65-125fdede5fb9" alt="Screenshot do Aplicativo4" width="260"/>
   
 
 
